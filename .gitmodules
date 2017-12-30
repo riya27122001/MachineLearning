@@ -1,3 +1,12 @@
 [submodule "MachineLearning2"]
 	path = MachineLearning2
 	url = https://github.com/riya27122001/MachineLearning2.git
+[submodule "MachineLearning1"]
+	path = MachineLearning1
+	url = https://github.com/riya27122001/MachineLearning1.git
+[submodule "MachineLearning3"]
+	path = MachineLearning3
+	url = https://github.com/riya27122001/MachineLearning3.git
+[submodule "MachineLearning4"]
+	path = MachineLearning4
+	url = https://github.com/riya27122001/MachineLearning4.git
