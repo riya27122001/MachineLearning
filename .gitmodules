@@ -10,3 +10,6 @@
 [submodule "MachineLearning4"]
 	path = MachineLearning4
 	url = https://github.com/riya27122001/MachineLearning4.git
+[submodule "Methods-of-classification-and-regression"]
+	path = Methods-of-classification-and-regression
+	url = https://github.com/shubhangighosh/Methods-of-classification-and-regression.git
