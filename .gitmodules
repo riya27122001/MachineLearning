@@ -4,3 +4,6 @@
 [submodule "Original-Backpropagation"]
 	path = Original-Backpropagation
 	url = https://github.com/shubhangighosh/Original-Backpropagation.git
+[submodule "Feature-Extraction-and-Classification"]
+	path = Feature-Extraction-and-Classification
+	url = https://github.com/shubhangighosh/Feature-Extraction-and-Classification.git
