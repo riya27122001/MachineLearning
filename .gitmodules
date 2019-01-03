@@ -7,3 +7,6 @@
 [submodule "Feature-Extraction-and-Classification"]
 	path = Feature-Extraction-and-Classification
 	url = https://github.com/shubhangighosh/Feature-Extraction-and-Classification.git
+[submodule "Spam-filter"]
+	path = Spam-filter
+	url = https://github.com/shubhangighosh/Spam-filter.git
